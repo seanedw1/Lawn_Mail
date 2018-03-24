@@ -6,3 +6,10 @@ Mailchimp lawn service subscribers
 * [Project dependencies](#)
 * [](#)
 * [](#)
+
+
+ ### Project dependencies
+
+ * [Bootstrap](https://getbootstrap.com/)
+ * [Mailchimp](https://mailchimp.com/)
+ * [jquery](http://jquery.com/)
